@@ -1,0 +1,19 @@
+{
+  "name": "vox-hackernewsfeeder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "hackernewsfeed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.12",
+    "feedparser": "^0.19.2",
+    "html-to-text": "^1.2.0",
+    "request": "^2.53.0",
+    "vox-client": "0.0.13"
+  },
+  "private": true
+}
